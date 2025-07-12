@@ -7,3 +7,5 @@ data={
 }
 df=pd.DataFrame(data)
 print(df)
+csv_filename='Data13.csv'
+df.to_csv(csv_filename, index='False')
