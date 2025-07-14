@@ -1,6 +1,15 @@
-,Name,Age,City,Employed
-0,Abhineet,18,New Delhi,Yes
-1,Ashish,19,Ranchi,No
-2,Surya,20,Udaypur,Yes
-3,Nitin,18,Rewadi,No
-4,Mudit,19,Dariyaganj,Yes
+,Years of Experience,Salary
+0,1.1,30000
+1,1.2,32000
+2,1.3,12000
+3,1.4,40230
+4,2.1,20000
+5,2.5,21000
+6,2.3,34000
+7,3.7,54000
+8,1.9,62000
+9,2.8,32320
+10,4.1,10000
+11,5.0,46660
+12,6.6,31200
+13,4.5,60000
