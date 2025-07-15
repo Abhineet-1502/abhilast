@@ -1,7 +1,10 @@
 import pandas as pd
 data={
-    'Years of Experience':[1.1,1.2,1.3,1.4,2.1,2.3,2.5,2.8,2.9,3.7,3.9,4.1,4.5,5,6.6],
-    'Salary':[10000,12000,14000,10230,20000,21000,25000,28000,29000,37320,39000,41660,45200,50000,66000]
+      'Customers':[1,2,3,4,5,6,7,8,9],
+      'Gender':['Male','Male','Female','Female','Female','Female','Female','Female','Male'],
+      'Age':[19,21,20,23,31,22,35,23,64],
+      'Annual Income (k$)':[15,15,16,16,17,17,18,18,19],
+      'Spending Score(1-100)':[39,81,6,77,40,76,6,94,3]
 }
 df=pd.DataFrame(data)
 print(df)
